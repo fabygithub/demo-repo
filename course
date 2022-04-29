@@ -3,3 +3,15 @@ https://www.youtube.com/watch?v=RGOj5yH7evk&t=600s
 
 git --version
 git clone
+
+git bash
+cd demo-repo
+
+git add index.html
+git add README.md
+git status
+
+git commit -m "Added index.html"
+
+20
+
