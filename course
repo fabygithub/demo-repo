@@ -15,5 +15,14 @@ git status
 
 git commit -m "Added index.html" -m "some description"
 
+ssh-keygen -t rsa  -b 4096 -C "email@example"
+
+testkey
+
+nc
+nc
+
+22
+
 
 
