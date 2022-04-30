@@ -11,7 +11,9 @@ git add index.html
 git add README.md
 git status
 
-git commit -m "Added index.html"
-
 20
+
+git commit -m "Added index.html" -m "some description"
+
+
 
